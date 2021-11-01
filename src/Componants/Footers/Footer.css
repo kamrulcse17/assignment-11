@@ -1,0 +1,24 @@
+.footer{
+    background-color: black;
+    padding: 50px 0px;
+    color: white;
+    opacity: 0.8;
+}
+.footer-left ul{
+    list-style: none;
+}
+.footer-left ul li{
+    display: inline;
+    font-size: 40px;
+    padding: 0px 30px;
+}
+.footer-left ul li i{
+    color:tomato;
+    opacity: 0.8;
+}
+.copyright{
+    font-size: 30px;
+    color:tomato;
+    opacity: 0.8;
+    padding-left: 30px;
+ }

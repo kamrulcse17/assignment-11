@@ -1,0 +1,42 @@
+.header{
+    background-color:rgba(73, 76, 77, 0);
+    color:white
+    
+}
+.header-left{
+    text-align: start;
+    padding-left: 20px;
+    color:grey;
+    padding-bottom: 20px;
+}
+.header-left h6{
+    padding-left: 20px;
+}
+.header-left span{
+    font-size: 15px;
+    color:black;
+}
+.ghorifiri{
+    font-size: 40px;
+    background-color:#DBE5E7;
+    border-radius: 50px;
+    border-color: rgb(220, 226, 231);
+    color: gray;
+    border:none;
+}
+.navbar-toggler-icon i{
+    color:sienna; 
+    font-size:28px;
+}
+.navbar-nav{
+    padding-top: 30px;
+}
+.navbar-nav a{
+    text-decoration: none;
+}
+.login{
+    padding-left: 50px;
+}
+.nav-link{
+    font-size: 20px;
+}

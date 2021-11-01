@@ -1,0 +1,16 @@
+.login{
+    width:50%;
+    margin: 0 auto;
+    text-align: center;
+    height:500px;
+}
+.form-check-label{
+    text-align: end;
+}
+.login .btn{
+    font-size: 40px;
+    border-radius: 50px;
+}
+.login i{
+    color:#D67261;
+}

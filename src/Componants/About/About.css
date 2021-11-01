@@ -1,0 +1,17 @@
+.about{
+    margin: 10px 50px;
+}
+.about-right p{
+    margin: 20px;
+    overflow: hidden;
+    font-size: 18px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    text-align: left;
+    padding-left: 40px;
+    color:grey;
+    opacity: 0.9;
+}
+.about-left{
+    overflow: hidden;
+}
