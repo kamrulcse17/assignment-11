@@ -23,9 +23,8 @@ const Service = () => {
                             <div className="card single-service">
                                 <img src={Service.img} />
                                 <h3>{Service.name}</h3>
-                                <p>{Service.title}</p>
                                 <p className="desc">{Service.description}</p>
-                                <p>{Service.designation}</p>
+                                <p>{Service.price}</p>
                                 <Link to={`/details/${Service._id}`}>
                                     <button className="btn btn-success py-2 mb-3">BookNow</button>
                                 </Link>

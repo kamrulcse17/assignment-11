@@ -37,11 +37,9 @@ const Details = () => {
                     <div className="">
                             <div className="card">
                                 <img src={singleService?.img} />
-                                <h3>{singleService?.email}</h3>
                                 <h3>{singleService?.name}</h3>
-                                <p>{singleService?.title}</p>
                                 <p>{singleService?.description}</p>
-                                <p>{singleService?.designation}</p>
+                                <p>{singleService?.price}</p>
                                 
                                     <button onClick={handlePlaceOrder} className="btn btn-success py-2">PlaceOrder</button>
                                 

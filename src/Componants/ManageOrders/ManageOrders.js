@@ -27,9 +27,8 @@ const ManageOrders = () => {
                         <div className="card single-order">
                             <img src={order.img} />
                             <h3>{order.name}</h3>
-                            <p>{order.title}</p>
                             <p className="desc">{order.description}</p>
-                            <p>{order.designation}</p>
+                            <p>{order.price}</p>
                             <button className="btn btn-danger py-2 mb-3">{order.status}</button>
                             <button  className="btn btn-success py-2 mb-3">Aprove</button>
                         </div>
